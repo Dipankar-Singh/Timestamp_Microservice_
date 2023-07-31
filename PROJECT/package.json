@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A simple Timestamp Microservice",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
